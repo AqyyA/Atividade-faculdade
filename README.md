@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="images/banner.png" alt="Tinder - App de relacionamentos com geolocalização" width="100%"/>
+
 <br/>
 
 ![iOS](https://img.shields.io/badge/iOS-Swift-orange?logo=apple&logoColor=white)
@@ -35,6 +37,8 @@ Adultos **18+** buscando encontros, relacionamentos ou networking social.
 ## 🔄 Como funciona
 
 <div align="center">
+<img src="images/fluxo.png" alt="Fluxo: Swipe, Match e Chat" width="100%"/>
+</div>
 
 ## 🛠️ Tecnologias utilizadas
 
