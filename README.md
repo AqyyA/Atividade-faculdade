@@ -32,7 +32,3 @@ Adultos **18+** buscando encontros, relacionamentos ou networking social.
 - Gabriel Monzani
 - Guilherme Silva
 ---
- 
-<div align="center">
-Feito com 💙 pela equipe do projeto
-</div>
