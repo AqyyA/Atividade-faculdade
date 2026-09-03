@@ -18,17 +18,7 @@ Adultos **18+** buscando encontros, relacionamentos ou networking social.
 - 🔍 **Filtros de busca** personalizados
 - ✅ **Verificação de perfil**
 - ⭐ **Planos premium** (Super Like, Boost)
-## 🛠️ Tecnologias utilizadas
- 
-| Camada | Tecnologia |
-|---|---|
-| iOS | Swift |
-| Android | Kotlin |
-| Backend | Microsserviços |
-| Banco de dados | NoSQL |
-| Geolocalização | APIs de geolocalização |
-| Infraestrutura | AWS (nuvem) |
- 
+
 ## 📋 Requisitos para utilização
  
 - 📱 Smartphone com acesso à internet
