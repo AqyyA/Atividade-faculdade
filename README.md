@@ -1,3 +1,5 @@
+# TINDER
+
 Descrição: App de relacionamentos com geolocalização, onde usuários dão “swipe” em perfis e formam “match” quando há interesse mútuo, liberando um chat.
 
 Público-alvo: Adultos 18+ buscando encontros, relacionamentos ou networking social.
