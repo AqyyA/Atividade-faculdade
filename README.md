@@ -67,5 +67,4 @@ Adultos **18+** buscando encontros, relacionamentos ou networking social.
 ---
 
 <div align="center">
-Feito com 💙 pela equipe do projeto
 </div>
