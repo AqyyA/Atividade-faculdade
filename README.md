@@ -1,5 +1,5 @@
 <div align="center">
-## 🔥Tinder
+# Tinder
  
 ### App de relacionamentos com geolocalização
 ## 📖 Descrição
