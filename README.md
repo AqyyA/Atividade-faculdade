@@ -1,14 +1,6 @@
 <div align="center">
-
-<br/>
-
-![iOS](https://img.shields.io/badge/iOS-Swift-orange?logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?logo=android&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Microsserviços-6E56CF)
-![Database](https://img.shields.io/badge/Database-NoSQL-4DB33D?logo=mongodb&logoColor=white)
-![Cloud](https://img.shields.io/badge/Infra-AWS-FF9900?logo=amazonaws&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
-
+# TINDER
+  
 </div>
 
 ---
