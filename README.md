@@ -8,7 +8,7 @@
 
 
 ![Idade](https://img.shields.io/badge/classificação-18%2B-red?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/cloud-AWS-yellow?style=for-the-badge)
+
 
 </div>
 
