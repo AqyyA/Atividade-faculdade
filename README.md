@@ -8,7 +8,6 @@
 
 ![Idade](https://img.shields.io/badge/classificação-18%2B-red?style=for-the-badge)
 
-
 </div>
 
 ---
@@ -81,3 +80,11 @@ flowchart LR
     E -- Sim --> F[🔥 Match]
     F --> G[💬 Chat liberado]
     E -- Não --> C
+```
+
+## 👨‍💻 Integrantes do grupo
+
+- Alan Silva
+- Arthur Gomes
+- Gabriel Monzani
+- Guilherme Arcanjo
