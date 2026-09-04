@@ -1,63 +1,58 @@
 <div align="center">
 
-  #  🔥 TINDER
-  
+# 🔥 Tinder
+
+### Conecte-se, descubra novas pessoas e encontre combinações perto de você.
+
+<br>
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
+![Plataformas](https://img.shields.io/badge/plataformas-iOS%20%7C%20Android-blue?style=for-the-badge)
+![Idade](https://img.shields.io/badge/classificação-18%2B-red?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/cloud-AWS-yellow?style=for-the-badge)
+
 </div>
 
 ---
 
-## 📖 Descrição
+## 📖 Sobre o projeto
 
-App de relacionamentos com geolocalização, onde usuários dão **swipe** em perfis e formam **match** quando há interesse mútuo, liberando um chat.
+O **Tinder** é um aplicativo de relacionamentos baseado em geolocalização. Nele, os usuários podem descobrir pessoas próximas, visualizar perfis e demonstrar interesse por meio de *swipes*.
+
+Quando duas pessoas demonstram interesse mútuo, ocorre um **match**, permitindo que elas iniciem uma conversa pelo chat.
+
+> Este projeto tem como objetivo proporcionar conexões de maneira simples, intuitiva e segura.
 
 ## 🎯 Público-alvo
 
-Adultos **18+** buscando encontros, relacionamentos ou networking social.
+A plataforma é destinada a adultos com **18 anos ou mais** que buscam:
 
-## ✨ Principais funcionalidades
+- ❤️ Relacionamentos amorosos;
+- 🤝 Novas amizades;
+- 💬 Interações sociais;
+- 🌐 Networking.
+
+## ✨ Funcionalidades
 
 | Funcionalidade | Descrição |
 |---|---|
-| 👤 **Perfil** | Fotos e bio personalizáveis |
-| 📍 **Swipe por geolocalização** | Descubra pessoas próximas a você |
-| 💬 **Matches e chat** | Conversa liberada após interesse mútuo |
-| 🔍 **Filtros de busca** | Refine por idade, distância e interesses |
-| ✅ **Verificação de perfil** | Mais segurança e confiança |
-| ⭐ **Planos premium** | Super Like, Boost e recursos extras |
+| 👤 **Perfil personalizado** | Adicione fotos, uma biografia e informações pessoais |
+| 📍 **Descoberta por localização** | Encontre pessoas próximas utilizando geolocalização |
+| 👉 **Sistema de swipe** | Demonstre interesse ou avance para o próximo perfil |
+| 💞 **Matches** | Combine com pessoas que também demonstraram interesse |
+| 💬 **Chat privado** | Converse com seus matches em um ambiente exclusivo |
+| 🔍 **Filtros de busca** | Refine os resultados por idade, distância e interesses |
+| ✅ **Verificação de perfil** | Aumente a segurança e a confiabilidade dos perfis |
+| ⭐ **Recursos premium** | Tenha acesso a Super Like, Boost e outras vantagens |
 
 ## 🔄 Como funciona
 
-<div align="center">
-</div>
-
-## 🛠️ Tecnologias utilizadas
-
-| Camada | Tecnologia |
-|---|---|
-| 📱 iOS | Swift |
-| 🤖 Android | Kotlin |
-| ⚙️ Backend | Microsserviços |
-| 🗄️ Banco de dados | NoSQL |
-| 📍 Geolocalização | APIs de geolocalização |
-| ☁️ Infraestrutura | AWS (nuvem) |
-
-## 📋 Requisitos para utilização
-
-- 📱 Smartphone com acesso à internet
-- ✉️ Cadastro via e-mail, telefone ou rede social
-- 🔞 Idade mínima de 18 anos
-- 📍 Permissão de localização ativada
-
-## 👥 Autores
-
-| Nome |
-|---|
-| Arthur Gomes |
-| Alan Silva |
-| Gabriel Monzani |
-| Guilherme Silva |
-
----
-
-<div align="center">
-</div>
+```mermaid
+flowchart LR
+    A[👤 Criar perfil] --> B[📍 Ativar localização]
+    B --> C[🔎 Descobrir pessoas]
+    C --> D[👉 Dar swipe]
+    D --> E{💞 Interesse mútuo?}
+    E -- Sim --> F[🔥 Match]
+    F --> G[💬 Chat liberado]
+    E -- Não --> C
