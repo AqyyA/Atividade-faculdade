@@ -6,7 +6,6 @@
 
 <br>
 
-
 ![Idade](https://img.shields.io/badge/classificação-18%2B-red?style=for-the-badge)
 
 
@@ -25,11 +24,27 @@ Quando duas pessoas demonstram interesse mútuo, ocorre um **match**, permitindo
 ## 🎯 Público-alvo
 
 A plataforma é destinada a adultos com **18 anos ou mais** que buscam:
-
 - ❤️ Relacionamentos amorosos;
 - 🤝 Novas amizades;
 - 💬 Interações sociais;
 - 🌐 Networking.
+
+## 💻 Linguagens e Tecnologias
+
+A arquitetura do Tinder é construída utilizando linguagens e ferramentas focadas em alto desempenho e escalabilidade:
+
+### **Mobile (Frontend)**
+- **Swift / Objective-C:** Desenvolvimento nativo para a plataforma iOS.
+- **Kotlin / Java:** Desenvolvimento nativo para a plataforma Android.
+- **JavaScript / TypeScript (React Native):** Utilizado em componentes multiplataforma e na versão Web.
+
+### **Backend & APIs**
+- **JavaScript / Node.js:** Processamento em tempo real (como o sistema de chat e notificações).
+- **Java / Go:** Microsserviços de alta performance e algoritmos de recomendação.
+- **Python:** Modelos de Machine Learning, processamento de dados e filtros de IA.
+
+### **Scripts & Infraestrutura**
+- **Bash / Shell Script:** Automação de pipelines de CI/CD e gerenciamento de infraestrutura em nuvem (AWS).
 
 ## ✨ Funcionalidades
 
