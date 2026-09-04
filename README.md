@@ -6,8 +6,7 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
-![Plataformas](https://img.shields.io/badge/plataformas-iOS%20%7C%20Android-blue?style=for-the-badge)
+
 ![Idade](https://img.shields.io/badge/classificação-18%2B-red?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/cloud-AWS-yellow?style=for-the-badge)
 
