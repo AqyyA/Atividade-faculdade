@@ -29,6 +29,17 @@ A plataforma é destinada a adultos com **18 anos ou mais** que buscam:
 - 💬 Interações sociais;
 - 🌐 Networking.
 
+## 👥 Criadores & Fundadores
+
+O Tinder foi concebido e criado dentro da incubadora de startups **Hatch Labs** em 2012 por:
+
+- **Sean Rad:** Co-fundador e primeiro CEO.
+- **Justin Mateen:** Co-fundador e ex-Diretor de Marketing (CMO).
+- **Jonathan Badeen:** Co-fundador e ex-Diretor de Estratégia (CSO), um dos principais responsáveis pelo desenvolvimento do sistema e mecânica do *swipe*.
+- **Whitney Wolfe Herd:** Co-fundadora e ex-Vice-Presidente de Marketing (posteriormente fundou o *Bumble*).
+- **Joe Munoz:** Co-fundador e engenheiro responsável pela construção do protótipo inicial (MatchBox).
+- **Chris Gulczynski:** Co-fundador e ex-Diretor de Criação (CCO), responsável pelo design e identidade visual inicial.
+
 ## 💻 Linguagens e Tecnologias
 
 A arquitetura do Tinder é construída utilizando linguagens e ferramentas focadas em alto desempenho e escalabilidade:
